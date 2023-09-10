@@ -1,0 +1,38 @@
+body{
+    font-family: "Josefin Sans";
+}
+
+.navbar-brand{
+    margin-left: 50px;
+    font-size: 30px;
+}
+
+#navbarNav{
+    margin-right: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+    
+}
+
+.nav-item{
+    margin: auto 20px;
+    padding: auto 20px;
+}
+
+.carousel-inner{
+    width: 90%;
+    height: 70%;
+    margin: 0 auto;
+}
+
+.section{
+    width: 90%;
+    margin: 20px auto;
+    font-size: 18px;
+}
+
+.footer{
+    width: 100%;
+    height: 30%;
+    text-align: center;
+}
